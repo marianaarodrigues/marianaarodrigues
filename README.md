@@ -1,6 +1,6 @@
 - 👋 Olá, sou Mariana Alves Rodrigues
 - 🌱 Estou estudando Programação Web no Senac GO
-- 🔭 Atualmente desenvolvo sites e landing pages utilizando HTML, CSS, Javascript e Bootstrap
+- 🔭 Atualmente aprendendo a desenvolver sites e landing pages utilizando HTML, CSS, Javascript e Bootstrap
 - 📫 Contato: rodriguesma627@gmail.com
 
 <!--
